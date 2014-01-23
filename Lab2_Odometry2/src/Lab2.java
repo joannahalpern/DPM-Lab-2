@@ -1,5 +1,8 @@
 /*
- * Lab2.java
+ * DPM Lab 2 - Odometry
+ * 
+ * Harris Miller
+ * Joanna Halpern
  */
 import lejos.nxt.*;
 
