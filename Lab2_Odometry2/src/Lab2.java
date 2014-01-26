@@ -1,8 +1,8 @@
 /*
  * DPM Lab 2 - Odometry
  * 
- * Harris Miller
- * Joanna Halpern
+ * Harris Miller 260499543
+ * Joanna Halpern 260410826
  */
 import lejos.nxt.*;
 
